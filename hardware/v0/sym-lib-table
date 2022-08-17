@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/_Projects/2022/keyboards/p9/hardware/libs/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/_Projects/2022/keyboards/p9/hardware/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/keyboardStuff/poz/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "Legacy")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/Mouser/SamacSys_Parts.lib")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/_Projects/2022/keyboards/p9/hardware/libs/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "MX_Only")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/_Projects/2022/keyboards/p9/hardware/libs/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/keyboardStuff/poz/USB4105-GF-A")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/Mouser/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "0ZCJ0050AF2E")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/keyboardStuff/poz/0ZCJ0050AF2E")(options "")(descr ""))
+  (lib (name "PTS525SM15SMTR2LFS")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/keyboardStuff/poz/PTS525SM15SMTR2LFS")(options "")(descr ""))
+  (lib (name "CX3225SB16000D0FLJZZ")(type "KiCad")(uri "X:/free4all/carlos/01-Maker/KiCad/Libraries/keyboardStuff/poz/CX3225SB16000D0FLJZZ")(options "")(descr ""))
+)
