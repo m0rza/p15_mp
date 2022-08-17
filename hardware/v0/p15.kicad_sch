@@ -4178,7 +4178,7 @@
   (symbol (lib_id "Device:C_Small") (at 382.27 94.615 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 45f1e93a-5fe4-4905-9e61-7663f1a6b11c)
-    (property "Reference" "C?" (id 0) (at 384.81 93.3512 0)
+    (property "Reference" "C31" (id 0) (at 384.81 93.3512 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (id 1) (at 384.81 95.8912 0)
@@ -5942,7 +5942,7 @@
   (symbol (lib_id "Device:C_Small") (at 391.16 94.615 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d95acf0e-0a65-4792-860c-c2632bba2121)
-    (property "Reference" "C?" (id 0) (at 393.7 93.3512 0)
+    (property "Reference" "C32" (id 0) (at 393.7 93.3512 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (id 1) (at 393.7 95.8912 0)
@@ -6908,10 +6908,10 @@
       (reference "C30") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/45f1e93a-5fe4-4905-9e61-7663f1a6b11c"
-      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C31") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/d95acf0e-0a65-4792-860c-c2632bba2121"
-      (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
+      (reference "C32") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/c425f06b-28e1-4865-9739-17189647c214"
       (reference "D0,1") (unit 1) (value "D_Small") (footprint "Diode_SMD:D_SOD-123")
